@@ -41,7 +41,7 @@
     "logform": "^2.1.2",
     "reflect-metadata": "^0.1.12",
     "rxjs": "^6.2.2",
-    "rxjs-compat": "^6.4.0",
+    "rxjs-compat": "^6.6.7",
     "strict-event-emitter-types": "^2.0.0",
     "typescript": "^3.0.1",
     "winston": "^3.2.1",
