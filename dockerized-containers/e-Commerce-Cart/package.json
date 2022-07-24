@@ -60,7 +60,7 @@
     "passport-local": "1.0.0",
     "passport-twitter": "1.0.4",
     "pug": "2.0.0-beta6",
-    "sequelize": "^4.37.4",
+    "sequelize": "^6.21.2",
     "sequelize-cli": "^4.0.0",
     "serve-favicon": "^2.5.0",
     "ts-lint": "^4.5.1",
