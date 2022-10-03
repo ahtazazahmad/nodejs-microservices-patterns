@@ -1,0 +1,12 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.25.0
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  'npm:hoek:20180212':
+    - express-joi-validator > boom > hoek:
+        patched: '2022-10-03T19:20:49.017Z'
+    - express-joi-validator > joi > hoek:
+        patched: '2022-10-03T19:20:49.017Z'
+    - express-joi-validator > joi > topo > hoek:
+        patched: '2022-10-03T19:20:49.017Z'
