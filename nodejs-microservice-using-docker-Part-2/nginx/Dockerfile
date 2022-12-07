@@ -1,5 +1,5 @@
 # Set nginx base image
-FROM nginx
+FROM nginx:1.23.2
 
 # File Author / Maintainer
 MAINTAINER Anand Mani Sankar
