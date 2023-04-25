@@ -45,7 +45,7 @@
     "strict-event-emitter-types": "^2.0.0",
     "typescript": "^3.0.1",
     "winston": "^3.2.1",
-    "xml2js": "^0.4.19"
+    "xml2js": "^0.5.0"
   },
   "devDependencies": {
     "0x": "^4.7.3",
