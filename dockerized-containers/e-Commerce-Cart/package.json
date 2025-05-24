@@ -47,7 +47,7 @@
     "moment": "^2.22.2",
     "mongoose": "^4.5.9",
     "morgan": "^1.9.0",
-    "multer": "^1.2.0",
+    "multer": "^2.0.0",
     "mysql2": "^1.6.5",
     "nodemailer": "2.5.0",
     "nodemon": "^1.18.6",
