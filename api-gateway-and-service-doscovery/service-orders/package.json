@@ -20,7 +20,7 @@
     "express": "^4.13.4",
     "body-parser": "^1.15.1",
     "request": "^2.72.0",
-    "morgan": "^1.7.0",
+    "morgan": "^1.10.1",
     "network-address": "^1.1.0",
     "micro-node-net-lib": "git@github.com:alchimya/micro-node-net-lib.git",
     "micro-node-service-registry-lib": "git@github.com:alchimya/micro-node-service-registry-lib.git"
