@@ -1,4 +1,4 @@
-FROM node:latest
+FROM node:25.6.0-bookworm
 
 RUN npm i -g nodemon node-inspector npm-run-all rimraf
 
